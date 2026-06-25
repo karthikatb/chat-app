@@ -1,5 +1,5 @@
 {
-  "homepage": "https://karthikatb.github.io/chatapp",
+  "homepage": "https://karthikatb.github.io/chat-app",
   "name": "chatroom",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
